@@ -1,12 +1,12 @@
 
-									Shell Scripting for DevOps Engineers by KASTRO
+									Shell Scripting for DevOps Engineers by Gopinath
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 													LECTURE 02
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Variables
 variable is used to store data in key-value format
-Name = Kastro
-Age = 30
+Name = Gopinath
+Age = 26
 Gender = Male
 They acts as placeholders for values that can be used throughout the script
 variables doesn't require explicit data type declarations
@@ -37,8 +37,8 @@ To remove a variable
 unset <VariableName>
 
 Points to remember;
-1. Cannot start with a digit (Ex: 123Kastro, 611Kiran)
-2. Cannot contain 3 special characters (- @ #) (Ex: Kastro-, Kiran@, Trainer#)
+1. Cannot start with a digit (Ex: 123gopi, 611Kiran)
+2. Cannot contain 3 special characters (- @ #) (Ex: gopi-, goud@, Trainer#)
 3. Use UPPERCASE for environment variables and lowercase for user-defined variables. But it is not mandatory
 
 
