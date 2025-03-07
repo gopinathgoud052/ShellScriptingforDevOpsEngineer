@@ -1,5 +1,5 @@
 
-									Shell Scripting for DevOps Engineers by KASTRO
+									Shell Scripting for DevOps Engineers by Gopinath
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 													LECTURE 01
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -60,7 +60,7 @@ For Amazon Linux (which is based on CentOS/RHEL), Bash (/bin/bash) is the defaul
 #! /bin/bash
 echo "Enter Your Name: "
 read user_name
-echo "Hello $user_name, Welcome to Shell Scripting Course by Kastro"
+echo "Hello $user_name, Welcome to Shell Scripting Course by gopi"
 
 Execution of a shell file
 	1. Method 1: Giving the executable permissions to the shell file before running
@@ -80,8 +80,8 @@ whoami
 pwd
 date
 cal 2025
-mkdir Kastro
-touch Kastro.txt
+mkdir gopinath
+touch gopinath.txt
 
 12. Script 3: System details
 #! /bin/bash
