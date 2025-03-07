@@ -6,16 +6,27 @@ This course is designed to help DevOps professionals master Shell Scripting from
 ---
 ## 📌 Course Modules
 ✔️ Linux Architecture
+
 ✔️ Shell Scripting – Concept
+
 ✔️ Writing Simple Shell Scripts
+
 ✔️ Variables
+
 ✔️ Statements
+
 ✔️ Operators
+
 ✔️ Loops (for, while)
+
 ✔️ Conditional Statements
+
 ✔️ Command Line Arguments
+
 ✔️ Functions
+
 ✔️ Scheduling
+
 ✔️ Cron Jobs
 
 ---
