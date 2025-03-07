@@ -30,7 +30,7 @@ This course is designed to help DevOps professionals master Shell Scripting from
 ---
 ## 🤝 Let's Connect!  
 
-🔗 **Connect on LinkedIn:** [Kastro Kiran](https://www.linkedin.com/in/kastro-kiran/) 
+🔗 **Connect on LinkedIn:** [www.linkedin.com/in/gopinath-goud-27593716b]
 
 ---
 ## 🎉 Happy Learning & Keep Automating! 
